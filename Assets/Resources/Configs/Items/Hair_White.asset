@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 466c7c9452a04a22a73cac9f6d98b371, type: 3}
+  m_Name: Hair_White
+  m_EditorClassIdentifier: 
+  itemID: hair_2
+  displayName: White hair
+  category: 2
+  prefab: {fileID: 6157665690384416367, guid: 5cb0b5d49e5a3084f8500b0c1f00c9bd, type: 3}
+  Icon: {fileID: 21300000, guid: 7bd52682bc20b3a4ebf805db26b2d217, type: 3}
